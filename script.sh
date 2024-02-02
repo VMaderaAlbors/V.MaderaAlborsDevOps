@@ -1,4 +1,7 @@
 #!/bin/bas
+echo "deleting folders at the start"
+rm -r fol_1
+rm -r fol_2
 echo "creating folders"
 mkdir fol_1
 mkdir fol_2
