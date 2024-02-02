@@ -20,4 +20,4 @@ cd ..
 cd fol_2
 chmod 777 *_2.txt
 cd ..
-
+echo "Job completed"
